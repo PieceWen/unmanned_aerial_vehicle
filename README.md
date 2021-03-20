@@ -1,2 +1,2 @@
 # unmanned_aerial_vehicle
-Code will be released soon.
+The code will be made available to the public soon.
